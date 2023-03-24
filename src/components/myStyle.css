@@ -1,0 +1,12 @@
+#mainDiv::-webkit-scrollbar {
+    -webkit-appearance: none
+ }
+.images::-webkit-scrollbar {
+   -webkit-appearance: none
+}
+ img {
+    margin-left: 1rem;
+    margin-right: 1rem;
+    border-radius: 10px;
+    height: 40vh;
+ }
